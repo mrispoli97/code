@@ -1,0 +1,29 @@
+version: "3"
+services:
+  front:
+    build:
+      context: ./front
+      dockerfile: Dockerfile
+    ports:
+      - 80:80
+    volumes:
+      - ./front/src:/var/www/html
+      - ./front/src/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+      - shoppingfiles:/var/www/files
+    environment:
+      JSON_PATH: /var/www/files
+
+  back:
+    build:
+      context: ./back
+      dockerfile: Dockerfile
+    tty: true
+    volumes:
+      - ./back/src:/usr/shopping
+      - ./back/service:/lib/systemd/system/
+      - shoppingfiles:/var/www/files
+    environment:
+      JSON_PATH: /var/www/files
+
+volumes:
+  shoppingfiles:

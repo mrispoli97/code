@@ -1,0 +1,18 @@
+# Turn on rewrite engine
+<ifModule mod_rewrite.c>
+
+  RewriteEngine on
+
+  # make index.php default
+  DirectoryIndex index.php
+
+  # RewriteCond %{HTTP_HOST} ^shoppingfever.de [NC,OR]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*)$ index.php?path=$1 [QSA]
+
+  # not rewrite css, js and images
+  RewriteCond %{REQUEST_URI} !\.(?:css|js|jpe?g|gif|png)$ [NC]
+  RewriteRule ^abc/(.+)/(.+)/ abc.php?id=$1&name=$2 [L]
+
+</IfModule>

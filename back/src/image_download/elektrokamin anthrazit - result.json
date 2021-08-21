@@ -1,0 +1,239 @@
+{
+    "search_metadata": {
+        "id": "6120f2202e7d6b55f2f97629",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/bff1252d407f18e1/6120f2202e7d6b55f2f97629.json",
+        "created_at": "2021-08-21 12:31:28 UTC",
+        "processed_at": "2021-08-21 12:31:28 UTC",
+        "google_url": "https://www.google.com/search?q=elektrokamin+anthrazit&oq=elektrokamin+anthrazit&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/bff1252d407f18e1/6120f2202e7d6b55f2f97629.html",
+        "total_time_taken": 3.27
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "elektrokamin anthrazit",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "total_results": 121000,
+        "time_taken_displayed": 0.65,
+        "query_displayed": "elektrokamin anthrazit"
+    },
+    "inline_images": [
+        {
+            "link": "/search?q=elektrokamin+anthrazit&tbm=isch&source=iu&ictx=1&fir=LU59xbl2Exj75M%252C4RGCanBLvBquKM%252C_&vet=1&usg=AI4_-kTv2w_eoLsIphCEeJPOtuSPmDOrbw&sa=X&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q9QF6BAgSEAE#imgrc=LU59xbl2Exj75M",
+            "thumbnail": "https://serpapi.com/searches/6120f2202e7d6b55f2f97629/images/552d39d2408f71cdcdf684ad4e9d25faa6ec65208bb19a6e383741d6934ae7cf.jpeg"
+        },
+        {
+            "link": "/search?q=elektrokamin+anthrazit&tbm=isch&source=iu&ictx=1&fir=h1U22OL2RdMXqM%252Cl6vlIOqiNsSv7M%252C_&vet=1&usg=AI4_-kSzDTvrVc_zBXcmL5Rc1wDhePdlPQ&sa=X&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q9QF6BAgQEAE#imgrc=h1U22OL2RdMXqM",
+            "thumbnail": "https://serpapi.com/searches/6120f2202e7d6b55f2f97629/images/552d39d2408f71cdf23b5f3510b6d058d0c5fb4a3f7375e35d06aba4259b2591.jpeg"
+        },
+        {
+            "link": "/search?q=elektrokamin+anthrazit&tbm=isch&source=iu&ictx=1&fir=mlrWAw17T0kPaM%252CjmEC7cQBHWhU5M%252C_&vet=1&usg=AI4_-kS76bPpqaSalI5APfdawqvHRzyuBw&sa=X&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q9QF6BAgTEAE#imgrc=mlrWAw17T0kPaM",
+            "thumbnail": "https://serpapi.com/searches/6120f2202e7d6b55f2f97629/images/552d39d2408f71cd1d716502ca900d4352c85a352d8efba9b1a13877b83e267d.jpeg"
+        },
+        {
+            "link": "/search?q=elektrokamin+anthrazit&tbm=isch&source=iu&ictx=1&fir=_q24XYoH94g6fM%252CXRy8y5KA3kesEM%252C_&vet=1&usg=AI4_-kSuDmut99sROtl4Kz7MvM4gQ5PCFA&sa=X&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q9QF6BAgREAE#imgrc=_q24XYoH94g6fM",
+            "thumbnail": "https://serpapi.com/searches/6120f2202e7d6b55f2f97629/images/552d39d2408f71cdaf20b7d897c58bb3a05ef93b9f5ea29b2c084d1090edbb0a.jpeg"
+        },
+        {
+            "link": "/search?q=elektrokamin+anthrazit&tbm=isch&source=iu&ictx=1&fir=1N_bd55uD9SfEM%252CSaii5r4ljL3Y1M%252C_&vet=1&usg=AI4_-kQPLdeP417CmNnIPMEo-X-rlVBFaw&sa=X&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q9QF6BAgMEAE#imgrc=1N_bd55uD9SfEM",
+            "thumbnail": "https://serpapi.com/searches/6120f2202e7d6b55f2f97629/images/552d39d2408f71cd822e7bd07dcc79432b3b756604cb5de4a5404ae220160dde.jpeg"
+        },
+        {
+            "link": "/search?q=elektrokamin+anthrazit&tbm=isch&source=iu&ictx=1&fir=Iol9B4nYkWVGMM%252CjCJmv_Aq0hfJoM%252C_&vet=1&usg=AI4_-kQ8r_u1r6blM42g4iG5R4Bn1FLS9A&sa=X&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q9QF6BAgPEAE#imgrc=Iol9B4nYkWVGMM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8-2LN6PzcmiFSH33p1lYxUn0FZlWZjyEgU8SVY-81&s"
+        },
+        {
+            "link": "/search?q=elektrokamin+anthrazit&tbm=isch&source=iu&ictx=1&fir=N5FMDPGZ90Z8QM%252CvkbZ2q0Wvy10pM%252C_&vet=1&usg=AI4_-kQaMi5hlFb9S9kVJrS-vljpSr_cAw&sa=X&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q9QF6BAgNEAE#imgrc=N5FMDPGZ90Z8QM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBAum4F0KeDwIe6Z_jmJFOTD9hiZmbrMC_7pLFf0d&s"
+        },
+        {
+            "link": "/search?q=elektrokamin+anthrazit&tbm=isch&source=iu&ictx=1&fir=k8i1zbDQjkgZnM%252CmIEFaKIWmYmndM%252C_&vet=1&usg=AI4_-kQ35VcUFoOzu1yL6LjbnlnaB-qQlA&sa=X&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q9QF6BAgGEAE#imgrc=k8i1zbDQjkgZnM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4i8TSBQQ6_nMmJ-cWDc6OFUmrt4fGx7XJY1lIR5ybGA&s"
+        },
+        {
+            "link": "/search?q=elektrokamin+anthrazit&tbm=isch&source=iu&ictx=1&fir=ZWu2fr_6kWj8hM%252CFd_3zE91zxtjfM%252C_&vet=1&usg=AI4_-kQl_7ZGHJ9GEIrJF2jRiDgVds-N8g&sa=X&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q9QF6BAgOEAE#imgrc=ZWu2fr_6kWj8hM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nW6IyAdRbishKKgU-O0oiTRGpp8ESEdYT3l2mGTy&s"
+        },
+        {
+            "link": "/search?q=elektrokamin+anthrazit&tbm=isch&source=iu&ictx=1&fir=g9GzjmZeES1GLM%252C4RGCanBLvBquKM%252C_&vet=1&usg=AI4_-kTOIl7UtVw2-1Tn4SXmnqWGejnmxw&sa=X&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q9QF6BAgLEAE#imgrc=g9GzjmZeES1GLM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp_tdcnzyd4WL-g9TKUCsDd-e3wfxjqo99OJY5b8nlg&s"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "DIMPLEX - Elektrokamin Nordic - LED-Lichter - Amazon",
+            "link": "https://www.amazon.de/DIMPLEX-Elektrokamin-Elektrischer-Flammeneffekt-Zuschaltbare/dp/B07HZQV388",
+            "displayed_link": "https://www.amazon.de \u203a DIMPLEX-...",
+            "snippet": "DIMPLEX - Elektrokamin Nordic - LED-Lichter - Patentierter Optiflame Flammeneffekt - Plug & Play - Anthrazit g\u00fcnstig auf Amazon.de: Kostenlose Lieferung an ..."
+        },
+        {
+            "position": 2,
+            "title": "DIMPLEX Elektrokamin, Anthrazit, B 60 x H 123,7 x T 29 cm",
+            "link": "https://www.amazon.de/EWT-Nordic-Luxe-Elektrisches-Fernbedienung/dp/B001YJ2GIA",
+            "displayed_link": "https://www.amazon.de \u203a EWT-Nord...",
+            "snippet": "DIMPLEX Elektrokamin, Anthrazit, B 60 x H 123,7 x T 29 cm. ... Deuba Elektro Kamin Elektrischer mit Heizung LED Kaminfeuer Effekt 2000W schwarz ..."
+        },
+        {
+            "position": 3,
+            "title": "_ _ Manufaktur Elektrokamin Roma de Luxe, Anthrazit ...",
+            "link": "https://www.elektrokamin.com/shop/elektrokamine/kaminfassaden-mit-3d-wasserdampf-feuer/_-_-manufaktur-elektrokamin-roma-de-luxe-anthrazit-feldhausklinker-mit-holzoberplatte-von-garvens/",
+            "displayed_link": "https://www.elektrokamin.com \u203a shop",
+            "snippet": "Beschreibung. Beschreibung. Der prachtvolle Manufaktur Elektrokamin Roma de Luxe, Anthrazit-Feldhausklinker \u2013 mit Holzoberplatte ist ein echter Hingucker in ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "sep": 5
+                    },
+                    "extensions": [
+                        "Sep 5, 2018",
+                        "Uploaded by Elektrokamin Garvens"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "Elektrokamin Lissabon anthrazit, 3D-Wasserdampftechnik",
+            "link": "https://www.youtube.com/watch?v=LZl_MkGpQcs",
+            "displayed_link": "https://www.youtube.com \u203a watch",
+            "thumbnail": "https://serpapi.com/searches/6120f2202e7d6b55f2f97629/images/d0cab0128f14c7ec028bd8ee5278be6c63d36b98833dcf209eb200a348bdfb42.jpeg",
+            "snippet": "Elektrokamin Lissabon anthrazit, 3D-Wasserdampftechnik von der Elektrokamin-Manufaktur Garvens ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "jun": 18
+                    },
+                    "extensions": [
+                        "Jun 18, 2015",
+                        "Uploaded by Elektrokamin Garvens"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "Elektrokamin f\u00fcr Ihr Wohnzimmer g\u00fcnstig kaufen auf Wohnen.de",
+            "link": "https://www.wohnen.de/wohnzimmer/kamine/eektrokamin.html",
+            "displayed_link": "https://www.wohnen.de \u203a ... \u203a Kamine",
+            "snippet": "Elektrokamin kaufen Sie g\u00fcnstig auf Wohnen.de \u2b50 Kostenloser Versand & Retoure \u2713 Gro\u00dfe Auswahl \u2b50 Kauf ... Elektrokamin Schwarz-Anthrazit modern Fernando.",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 4.7,
+                        "votes": 2182
+                    },
+                    "extensions": [
+                        "Rating: 4.7",
+                        "\u200e2,182 votes"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "Kamin im Wohnzimmer - Wohnen.de",
+            "link": "https://www.wohnen.de/wohnzimmer/kamine.html",
+            "displayed_link": "https://www.wohnen.de \u203a kamine",
+            "snippet": "84x94x32 Elektrokamin mit Holz Rahmen aus Sheesham Massivholz Etry. 84x94x32 Elektrokamin mit Holz Rahmen ... Elektrokamin Schwarz-Anthrazit modern Fernando.",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 4.7,
+                        "votes": 2183
+                    },
+                    "extensions": [
+                        "Rating: 4.7",
+                        "\u200e2,183 votes"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "Dimplex \u00bbELEKTROKAMIN NORDIC Anthrazit 208187",
+            "link": "https://www.glo24.de/DIMPLEX-Elektrokamin-NORDIC-Anthrazit-208187",
+            "displayed_link": "https://www.glo24.de \u203a DIMPLEX-E...",
+            "snippet": "Dimplex\u2713ELEKTROKAMIN NORDIC Anthrazit\u2713EAN. 5011139208187 - Tel.: 04621 - 48 54 77 - info@GLo24.de \u2713 Heizung, Sanit\u00e4r, L\u00fcftung & Klima, Kamine, Grills..."
+        },
+        {
+            "position": 8,
+            "title": "Dimplex Elektrokamin \u00bbCubic\u00ab, anthrazit-grau, mit ... - OTTO",
+            "link": "https://www.otto.de/p/dimplex-elektrokamin-cubic-anthrazit-grau-mit-fernbedienung-1211473565/",
+            "displayed_link": "https://www.otto.de \u203a dimplex-elektr...",
+            "snippet": "Dimplex Elektrokamin \u00bbCubic\u00ab, anthrazit-grau, mit Fernbedienung f\u00fcr 1.049,99\u20ac bei OTTO.",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 5,
+                        "reviews": 4,
+                        "\u20ac": 1049.99
+                    },
+                    "extensions": [
+                        "Rating: 5",
+                        "\u200e4 reviews",
+                        "\u200e\u20ac1,049.99"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "EL Fuego Elektrokamin Leeds Anthrazit 1,85 kW kaufen bei OBI",
+            "link": "https://www.obi.de/elektrokamine/el-fuego-elektrokamin-leeds-anthrazit-1-85-kw/p/4416087",
+            "displayed_link": "https://www.obi.de \u203a elektrokamine",
+            "snippet": "Mit Dimmerfunktion \u2022 Mit LED-Beleuchtung \u2022 T\u00e4uschend echter Glut-/Flammeneffekt \u2713 EL Fuego Elektrokamin Leeds Anthrazit 1,85 kW \u279c Elektrokamine kaufen.",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 4,
+                        "vote": 1
+                    },
+                    "extensions": [
+                        "Rating: 4",
+                        "\u200e1 vote"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "elektrokamin holzoptik",
+            "link": "https://www.google.com/search?q=Elektrokamin+Holzoptik&sa=X&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q1QIwE3oECBYQAQ"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=elektrokamin+anthrazit&ei=IvIgYbSPLsW4ggebkr7oBw&start=10&sa=N&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q8NMDegQIARBG",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=elektrokamin+anthrazit&ei=IvIgYbSPLsW4ggebkr7oBw&start=10&sa=N&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q8tMDegQIARA2",
+            "3": "https://www.google.com/search?q=elektrokamin+anthrazit&ei=IvIgYbSPLsW4ggebkr7oBw&start=20&sa=N&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q8tMDegQIARA4",
+            "4": "https://www.google.com/search?q=elektrokamin+anthrazit&ei=IvIgYbSPLsW4ggebkr7oBw&start=30&sa=N&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q8tMDegQIARA6",
+            "5": "https://www.google.com/search?q=elektrokamin+anthrazit&ei=IvIgYbSPLsW4ggebkr7oBw&start=40&sa=N&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q8tMDegQIARA8",
+            "6": "https://www.google.com/search?q=elektrokamin+anthrazit&ei=IvIgYbSPLsW4ggebkr7oBw&start=50&sa=N&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q8tMDegQIARA-",
+            "7": "https://www.google.com/search?q=elektrokamin+anthrazit&ei=IvIgYbSPLsW4ggebkr7oBw&start=60&sa=N&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q8tMDegQIARBA",
+            "8": "https://www.google.com/search?q=elektrokamin+anthrazit&ei=IvIgYbSPLsW4ggebkr7oBw&start=70&sa=N&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q8tMDegQIARBC",
+            "9": "https://www.google.com/search?q=elektrokamin+anthrazit&ei=IvIgYbSPLsW4ggebkr7oBw&start=80&sa=N&ved=2ahUKEwi0qMu1j8LyAhVFnOAKHRuJD30Q8tMDegQIARBE"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=elektrokamin+anthrazit&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=elektrokamin+anthrazit&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=elektrokamin+anthrazit&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=elektrokamin+anthrazit&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=elektrokamin+anthrazit&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=elektrokamin+anthrazit&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=elektrokamin+anthrazit&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=elektrokamin+anthrazit&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=elektrokamin+anthrazit&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=elektrokamin+anthrazit&start=80"
+        }
+    }
+}
